@@ -1,0 +1,23 @@
+{
+  "name": "primer_ejemplo_gitflow_gonzalo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggarveg352/primer_ejemplo_gitflow_Gonzalo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggarveg352/primer_ejemplo_gitflow_Gonzalo/issues"
+  },
+  "homepage": "https://github.com/ggarveg352/primer_ejemplo_gitflow_Gonzalo#readme",
+  "dependencies": {
+    "mongoose": "^8.19.2"
+  }
+}
